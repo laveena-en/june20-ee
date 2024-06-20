@@ -1,27 +1,26 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Page4",
+    "slug": "page4",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 700,
           "containerStyle": "none",
-          "snapRows": 124,
+          "snapRows": 104,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 89,
-          "minHeight": 1292,
-          "dynamicTriggerPathList": [],
+          "minHeight": 1060,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -29,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Page4",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +38,5 @@
     "policies": []
   },
   "deleted": false,
-  "gitSyncId": "6673e06d8888ea6e788585dd_c1caed71-b2a4-4e17-ab00-a84e361c8f2c"
+  "gitSyncId": "6673e203fb0cdc3188964191_2cce4a8f-9551-45ea-a2a9-8a7dfe038fae"
 }
